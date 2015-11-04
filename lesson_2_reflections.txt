@@ -6,3 +6,5 @@ I need to do it because I want to have the history of project's changes and to b
  
  Staging area is opportunity to commit only you need. 
  It's a intermediate area between working directory and repository.
+ 
+ Some changes to grasp variants of diff command
