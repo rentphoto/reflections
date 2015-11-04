@@ -1,0 +1,8 @@
+When I initialize a repository in the my directory creates a new directory with meta data of git.
+I need to do it because I want to have the history of project's changes and to be able revert in previous state. 
+ 
+ How is the staging area different from the working directory and the repository? 
+ What value do you think it offers?
+ 
+ Staging area is opportunity to commit only you need. 
+ It's a intermediate area between working directory and repository.
