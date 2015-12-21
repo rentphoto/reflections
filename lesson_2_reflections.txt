@@ -8,3 +8,22 @@ I need to do it because I want to have the history of project's changes and to b
  It's a intermediate area between working directory and repository.
  
  Some changes to grasp variants of diff command
+ 
+ What are some situations when branches would be helpful in keeping your history organized?
+ How would branches help?
+ 
+ When I will be creating for instance a experimental version of my code it would be 
+ helpful to create a new branch for this purpose.
+ 
+ 
+ What is the result of merging two branches together?
+ Why do we represent it in the diagram the way we do?
+ 
+ The result of merging two branches together is new code that sums each branch's work. In order
+ to convenient view the sequence of commits in whole working process we represent it in the
+diagram.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of Git's automatic merging is speed of working, the of it is possible errors.
